@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
+<!-- header -->
 <?php include('assets/views/header.php'); ?>
 
 <body class="is-preload">
+    <!-- menu -->
     <?php include('assets/views/menu.php'); ?>
 
     <!-- Wrapper -->
@@ -28,7 +30,7 @@
             </div>
         </section>
 
-        <!-- Section -->
+        <!-- Section sobre -->
         <section id="first">
             <header>
                 <h2>Sua entrega com responsabilidade</h2>
@@ -40,11 +42,12 @@
                     nossa rede de entregadores autônomos com total segurança e a melhor
                     relação custo/benefício.
                 </p>
+                <a href="https://deltadelivery.com.br/sobre.php" class="button primary large">saiba mais</a>
                 <span class="image main"><img src="./images/dd.jpg" alt="" /></span>
             </div>
         </section>
 
-        <!-- Section -->
+        <!-- Section features-->
         <section>
             <header>
                 <h2>A gente vai até você sem complicação</h2>
@@ -82,15 +85,14 @@
             </div>
         </section>
 
-        <!-- Section -->
+        <!-- Section clientes -->
         <section>
             <header>
                 <h2>veja quem confia em nossos serviços</h2>
             </header>
             <div class="content">
                 <p>
-                    <strong>Não os vemos </strong> nam maximus erat id euismod
-                    egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.
+                    <strong>Vestimos a sua camisa </strong>, entendemos que somos um só, sua marca é nossa marca.
                 </p>
 
                 <!-- Section -->
@@ -125,7 +127,7 @@
             </header>
             <div class="content">
                 <p>
-                    <strong>Não deixei</strong> o seu cliente esperando, faça parte da
+                    <strong>Não deixe</strong> o seu cliente esperando, faça parte da
                     maior rede de entregadores profissionais de Parnaíba.
                 </p>
                 <a href="https://api.whatsapp.com/send?phone=5586995596185&text=Ol%C3%A1%2C%20preciso%20de%20um%20entregador%20com%20urg%C3%AAncia!" target="_blank" class="button primary large pulse">entregador agora!</a>
@@ -140,38 +142,32 @@
             </header>
             <div class="content">
                 <p>
-                    <strong>Não deixei</strong> o seu cliente esperando, faça parte da maior rede de entregadores profissionais de Parnaíba.
+                    <strong>Veja</strong> algumas dúvidas frequentes.
                 </p>
 
                 <div class="accordion">
                     <div class="accordion__item">
                         <button class="accordion__btn">
                             <span class="accordion__caption"></span>
-                            Como faço para me tornar um Entregador?
+                            Como funciona?
                             </span>
                             <span class="accordion__icon"><i class="fa fa-plus"></i></span>
                         </button>
 
                         <div class="accordion__content">
                             <p>
-                                The most important thing is that you want to learn something that interests you, because once you start learning, you’ll be with this topic for a while. Choosing something just because it’s popular or what others are doing isn’t the way to go because
-                                if you don’t have a true interest in it, you’ll lose the motivation to learn! Spend some time seriously looking into the different tech career paths before choosing one to go down.
+                                ...
                             </p>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
-
+        <!-- footer -->
         <?php include('assets/views/footer.php'); ?>
     </div>
-    <!-- Scripts -->
-    <script src="assets/js/jquery.min.js"></script>
-    <script src="assets/js/jquery.scrolly.min.js"></script>
-    <script src="assets/js/browser.min.js"></script>
-    <script src="assets/js/breakpoints.min.js"></script>
-    <script src="assets/js/util.js"></script>
-    <script src="assets/js/main.js"></script>
+    <!-- cop -->
+    <?php include('assets/views/copyright.php'); ?>
 </body>
 
 </html>

@@ -1,7 +1,7 @@
-<?php include('./assets/views/header.php'); ?>
+<?php include('assets/views/header.php'); ?>
 
 <body class="is-preload">
-    <?php include('./assets/views/menu.php'); ?>
+    <?php include('assets/views/menu.php'); ?>
 
     <div id="wrapper">
         <section class="intro" id="home">
@@ -45,8 +45,9 @@
                 <a href="https://api.whatsapp.com/send?phone=5586995596185&text=Ol%C3%A1%2C%20gostaria%20de%20um%20or%C3%A7amento%20para%20minha%20empresa!" target="_blank" class="button large pulse">quero um orçamento</a>
             </div>
         </section>
-
-        <?php include('./assets/views/footer.php'); ?>
+        <!-- footer -->
+        <?php include('assets/views/footer.php'); ?>
     </div>
-
+    <!-- cop -->
+    <?php include('assets/views/copyright.php'); ?>
 </body>
