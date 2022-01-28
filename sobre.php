@@ -10,7 +10,7 @@
                 <p>A DELTA DELIVERY é uma entidade totalmente piauiense, criada em 2019</p>
                 <ul class="actions">
                     <li>
-                        <a href="#historico" class="arrow scrolly"><span class="label">Next</span></a>
+                        <a href="https://deltadelivery.com.br/sobre#historico" class="arrow scrolly"><span class="label">Next</span></a>
                     </li>
                 </ul>
             </header>

@@ -20,7 +20,7 @@
             </div>
 
             <div class="bottom-nav-item">
-                <a href="https://deltadelivery.com.br/sobre.php">
+                <a href="https://deltadelivery.com.br/sobre">
                     <div class="bottom-nav-link">
                         <i class="fa fa-smile-o" aria-hidden="true"></i>
                         <span>Conheça-nos</span>

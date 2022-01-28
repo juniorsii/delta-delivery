@@ -42,7 +42,7 @@
                     nossa rede de entregadores autônomos com total segurança e a melhor
                     relação custo/benefício.
                 </p>
-                <a href="https://deltadelivery.com.br/sobre.php" class="button primary large">saiba mais</a>
+                <a href="https://deltadelivery.com.br/sobre" class="button primary large">saiba mais</a>
                 <span class="image main"><img src="./images/dd.jpg" alt="" /></span>
             </div>
         </section>
