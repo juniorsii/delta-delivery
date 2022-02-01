@@ -37,7 +37,7 @@
             </header>
             <div class="content">
                 <p>
-                    <strong>Atualmente</strong> Atualmente, a DELTA DELIVERY, é reputada em excelência no ramo de entrega em domicílio do norte do Piauí, dispondo de um grupo conceituado de associados, habilitados e capacitados para desenvolverem suas atividades. Atuando em transportes seguro e distinto.
+                    <strong>Atualmente</strong> a Delta Delivery é reputada em excelência no ramo de entregas em domicílio do Norte do Piauí, dispondo de um grupo conceituado de entregadores associados, habilitados e capacitados para desenvolverem suas atividades de forma eficaz. Atuando em transportes seguro e devidamente uniformizados.
                 </p>
                 <p>
                     <strong>Precavido</strong> com a seguridade de seus associados permeia garantia veicular, para um trabalho confiante e salvaguardado por Deus como guia e guardião das nossas vidas.

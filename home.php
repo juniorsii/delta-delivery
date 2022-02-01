@@ -37,7 +37,7 @@
             </header>
             <div class="content">
                 <p>
-                    <strong>Seu negócio</strong> tem encomendas para o mesmo dia e
+                    <strong>Seu negócio</strong> tem entregas para o mesmo dia e
                     requer um tratamento especial ou é extremamente urgente? Utilize
                     nossa rede de entregadores autônomos com total segurança e a melhor
                     relação custo/benefício.
@@ -55,7 +55,7 @@
             <div class="content">
                 <p>
                     <strong>Nosso time</strong> de entregadores possui todos os
-                    requisitos para que sua entrega seja segura, rápida e efeciente, sem
+                    requisitos para que sua entrega seja segura, rápida e eficaz, sem
                     enrolação.
                 </p>
                 <ul class="feature-icons">
@@ -63,7 +63,7 @@
                         <h3>social</h3>
                         Conectamos negócios que necessitam de entregas a maior rede de
                         entregadores autônomos de Parnaíba, gerando trabalho e renda para
-                        várias pessoas.
+                        várias famílias.
                     </li>
                     <li class="icon fa-get-pocket">
                         <h3>seguro</h3>
@@ -78,9 +78,7 @@
                     </li>
                 </ul>
                 <p>
-                    Se você não gerencia a sua rede de logística reversa, provavelmente,
-                    está deixando dinheiro na mesa. Utilize nossos entregadores para
-                    coletar as devoluções dos seus clientes.
+                    Se a sua logística de entrega não está funcionando e continua perdendo dinheiro, utilize nossos entregadores para melhorar suas entregas e alavancar seus ganhos no delivery.
                 </p>
             </div>
         </section>
@@ -100,8 +98,7 @@
                     <header>
                         <h3>responsabilidade</h3>
                         <p>
-                            Sabemos que levamos a sua marca em nossas Bags, por isso temos
-                            compromisso, cumprindo prazos estabelecidos por você.
+                            Levamos a sua marca em nossas Bags, por isso temos compromisso: cumprindo o prazo estabelecido pela necessidade do seu cliente.
                         </p>
                     </header>
                     <div class="content">
@@ -146,7 +143,7 @@
                 </p>
 
                 <div class="accordion">
-                    <div class="accordion__item">
+                    <div class="accordion__item mb-2">
                         <button class="accordion__btn">
                             <span class="accordion__caption"></span>
                             Como funciona?
@@ -156,11 +153,58 @@
 
                         <div class="accordion__content">
                             <p>
-                                ...
+                                Nós fornecemos os entregadores de acordo com a sua demanda diária.
                             </p>
                         </div>
                     </div>
+
+                    <div class="accordion__item mb-2">
+                        <button class="accordion__btn">
+                            <span class="accordion__caption"></span>
+                            Como faço pra cadastrar a minha empresa?
+                            </span>
+                            <span class="accordion__icon"><i class="fa fa-plus"></i></span>
+                        </button>
+
+                        <div class="accordion__content">
+                            <p>
+                                Solicite uma visita. Nós vamos delinear os procedimentos para o seu cadastro.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="accordion__item mb-2">
+                        <button class="accordion__btn">
+                            <span class="accordion__caption"></span>
+                            Vou iniciar meu delivery agora, posso solicitar um ou mais entregadores?
+                            </span>
+                            <span class="accordion__icon"><i class="fa fa-plus"></i></span>
+                        </button>
+
+                        <div class="accordion__content">
+                            <p>
+                                Sim, faremos as entregas por chamada, Ligação ou via WhatsApp.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="accordion__item mb-2">
+                        <button class="accordion__btn">
+                            <span class="accordion__caption"></span>
+                            Come é feito o pagamento??
+                            </span>
+                            <span class="accordion__icon"><i class="fa fa-plus"></i></span>
+                        </button>
+
+                        <div class="accordion__content">
+                            <p>
+                                A prestação de conta é semanal com o representante administrativo e os pagamentos serão feitos ao financeiro por vias bancárias.
+                            </p>
+                        </div>
+                    </div>
+
                 </div>
+
             </div>
         </section>
         <!-- footer -->
